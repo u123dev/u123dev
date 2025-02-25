@@ -19,11 +19,8 @@ I have excellent knowledge in backend development on Python.
 
 ### Key points ⚡️
 
-* creation of web-based e-commerce systems, enterprise database management systems for sales and goods accounting. 
-* management experience in creating profitable business products,
-* advanced analytical skills, strong understanding of IT methods. 
-* Academic degrees in Applied Mathematics, Economics, IT. 
-* Upper-intermediate English & experience in business communications with foreign partners. 
+* creation of web-based e-commerce systems, enterprise database management systems, API's. 
+* Academic degrees in Applied Mathematics, Economics, IT. Upper-intermediate English.
 
 ## 🛠 Technical Stack
 * Python (asyncio, concurrency, parallelism)
