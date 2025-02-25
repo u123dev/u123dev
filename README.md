@@ -14,3 +14,63 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Python Developer 🛠
+With experience in Django, Django Rest (DRF), FastAPI, Odoo, Scraping, libraries for data analysis, DBMS.
+I have excellent knowledge in backend development on Python.
+
+### Key points ⚡️
+
+* creation of web-based e-commerce systems, enterprise database management systems for sales and goods accounting. 
+* management experience in creating profitable business products,
+* advanced analytical skills, strong understanding of IT methods. 
+* Academic degrees in Applied Mathematics, Economics, IT. 
+* Upper-intermediate English & experience in business communications with foreign partners. 
+
+### My motivation 🎲 
+Comes from a passion for technology, programming, and continuous skill improvement, which allows me to create effective and enjoyable solutions.
+
+## 🛠 Technical Stack
+●	Python — Python (advanced Python, asyncio, concurrency, parallelism)
+
+●	Web Development Frameworks — Django, FastAPI, Django Rest Framework (DRF), Flask, Odoo, Django ORM, SQLAlchemy
+
+●	Databases — PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch
+
+●	Task Queues/Brokers — Celery, Celery Beat, RabbitMQ
+
+●	Web Scraping — BeautifulSoup, Selenium, Playwright, Scrapy
+
+●	Data Analysis — NumPy, Pandas, Matplotlib, Tableau
+
+●	Machine Learning — TensorFlow, Keras, Neural Networks, Classification, ML models, LLM, Langchain, Llamaindex
+
+●	OOP — SOLID principles, Design patterns
+
+●	Version Control — Git/Github
+
+●	CI/CD in Development — GitHub Actions, Unit test, Pytest, Docker, AWS cloud
+
+●	Algorithms and Data Structures
+
+●	Web Tech & Other Tools — HTML, CSS, JS, PHP, C/C++
+
+●	Software Development Methodologies — SDLC, Waterfall, Agile (Scrum, Kanban)
+
+●	English — Upper-Intermediate
+
+### My projects ✨
+* Crypto Monitoring Service - periodic tasks management, background processing & API (FastAPI, Django ORM + Admin, PostgreSQL, Celery / Redis, Asyncio, Docker)
+
+* Scraping Olx site - background tasks to fit info into db (Scrapy, Selenium, Celery / Redis, PostgreSQL, Alchemy, Docker)
+
+* Library Service API - managing library main processes and activities  API, Payment processing, Telegram notifications (DRF, Celery/Redis, Online payment, Telegram Bot, Docker)
+
+* Task Manager System - to plan, manage and track all  team's tasks in one app  (Django, Jinja Templates, PostgreSql)
+* Airport Service API - tracking flights, managing airplanes, crew, tickets, orders, airports across the whole globe (DRF, PostgreSql, Docker)
+
+* Social Media API - service for a social media (DRF, Celery / Redis, Docker)
+
+### Contact me 📝 
+* Email: u123@ua.fm
+
