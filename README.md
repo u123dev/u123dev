@@ -26,40 +26,26 @@ I have excellent knowledge in backend development on Python.
 * Upper-intermediate English & experience in business communications with foreign partners. 
 
 ## 🛠 Technical Stack
-●	Python (asyncio, concurrency, parallelism)
-
-●	Django, FastAPI, Django Rest Framework (DRF), Flask, Odoo, Django ORM, SQLAlchemy
-
-●	PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch
-
-●	Task Queues/Brokers — Celery, Celery Beat, RabbitMQ
-
-●	Web Scraping — BeautifulSoup, Selenium, Playwright, Scrapy
-
-●	Data Analysis — NumPy, Pandas, Matplotlib, Tableau
-
-●	ML — TensorFlow, Keras, Neural Networks, Classification, ML models, LLM, Langchain, Llamaindex
-
-●	OOP, SOLID, Design patterns
-
-● Unit test, Pytest
-
-●	Git/Github
-
-●	CI/CD in Development — GitHub Actions, Docker, AWS cloud
-
-●	Algorithms and Data Structures
-
-●	Web Tech & Other Tools — HTML, CSS, JS, PHP, C/C++
-
+* Python (asyncio, concurrency, parallelism)
+* Django, FastAPI, Django Rest Framework (DRF), Flask, Odoo, Django ORM, SQLAlchemy
+*	PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch
+* Task Queues/Brokers — Celery, Celery Beat, RabbitMQ
+*	Web Scraping: BeautifulSoup, Selenium, Playwright, Scrapy
+*	Data Analysis: NumPy, Pandas, Matplotlib, Tableau
+*	AI&ML: TensorFlow, Keras, Neural Networks, Classification, ML models, LLM, Langchain, Llamaindex
+*	OOP: SOLID, Design patterns, Algorithms and Data Structures
+* Unit test, Pytest
+*	Git / Github / CI/CD in Development — GitHub Actions
+*	Docker, K8s, AWS cloud
+*	Web Tech & Other Tools: Payment Stripe, HTML, CSS, JS, PHP, C/C++
 
 ### My projects ✨
 * Crypto Monitoring Service - periodic tasks management, background processing & API (FastAPI, Django ORM + Admin, PostgreSQL, Celery / Redis, Asyncio, Docker)
-* Scraping Olx site - background tasks to fit info into db (Scrapy, Selenium, Celery / Redis, PostgreSQL, Alchemy, Docker)
-* Library Service API - managing library main processes and activities  API, Payment processing, Telegram notifications (DRF, Celery/Redis, Online payment, Telegram Bot, Docker)
-* Task Manager System - to plan, manage and track all  team's tasks in one app  (Django, Jinja Templates, PostgreSql)
-* Airport Service API - tracking flights, managing airplanes, crew, tickets, orders, airports across the whole globe (DRF, PostgreSql, Docker)
-* Social Media API - service for a social media (DRF, Celery / Redis, Docker)
+* Scraping Olx site
+* Library Service API - managing processes and activities  API, Payment processing, Telegram notifications (DRF, Celery/Redis, Online payment, Telegram Bot, Docker)
+* Task Manager System 
+* Airport Service API
+* Social Media API 
 
 ### Contact me 📝 
 * Email: u123@ua.fm
