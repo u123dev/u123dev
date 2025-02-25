@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **u123dev/u123dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,14 +25,9 @@ I have excellent knowledge in backend development on Python.
 * Academic degrees in Applied Mathematics, Economics, IT. 
 * Upper-intermediate English & experience in business communications with foreign partners. 
 
-### My motivation 🎲 
-Comes from a passion for technology, programming, and continuous skill improvement, which allows me to create effective and enjoyable solutions.
-
 ## 🛠 Technical Stack
 ●	Python — Python (advanced Python, asyncio, concurrency, parallelism)
-
 ●	Web Development Frameworks — Django, FastAPI, Django Rest Framework (DRF), Flask, Odoo, Django ORM, SQLAlchemy
-
 ●	Databases — PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch
 
 ●	Task Queues/Brokers — Celery, Celery Beat, RabbitMQ
