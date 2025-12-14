@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Python Developer 🛠    ![Python](https://img.shields.io/badge/Python-%F0%9F%9B%A0-yellow?labelColor=blue)
+## Python Developer 🛠    ![Python](https://img.shields.io/badge/Python-%F0%9F%9B%A0-yellow?labelColor=blue)
 With experience in Django, Django Rest (DRF), FastAPI, Odoo, Scraping, libraries for data analysis, DBMS.
 I have excellent knowledge in backend development on Python.
 
